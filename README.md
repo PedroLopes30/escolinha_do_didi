@@ -5,7 +5,7 @@ This application was developed to manage student enrollments. The client creates
 ## Technologies
 
 | Technology | Use |
-| - - - | - - - |
+| --- | --- |
 | Python | Language |
 | Django | Web Framework |
 | TailwindCSS | Style |
